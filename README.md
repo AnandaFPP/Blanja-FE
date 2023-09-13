@@ -9,7 +9,7 @@
     <br />
     <a href="https://blanja-fe-nine.vercel.app/home">View Demo</a>
     ·
-    <a href="https://blanja-be-snowy.vercel.app/">Api Demo</a>
+    <a href="https://blanja-be-snowy.vercel.app/">Api Demo</a> 
   </p>
 </p>
 
